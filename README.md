@@ -1,6 +1,6 @@
-# Gerenciador de Usuários - Backend & Frontend
+# Cadastro de Funcionário - Backend & Frontend
 
-Um sistema completo de gerenciamento de usuários com Node.js/Express no backend e HTML/CSS/JavaScript no frontend.
+Um sistema simples para cadastro de funcionários com Node.js/Express no backend e HTML/CSS/JavaScript no frontend.
 
 ## 📁 Estrutura do Projeto
 

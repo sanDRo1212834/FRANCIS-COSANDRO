@@ -1,7 +1,7 @@
 {
-  "name": "usuarios-backend",
+  "name": "cadastro-de-funcionario",
   "version": "1.0.0",
-  "description": "Backend para gerenciar usuários",
+  "description": "Backend para cadastro de funcionários",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
